@@ -1,5 +1,0 @@
-Name : production-ecommerce
-
-Project : ecommerce
-Environment : production
-Owner : equipe-cloud

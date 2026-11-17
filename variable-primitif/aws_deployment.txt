@@ -1,3 +1,0 @@
-Region : eu-west-3
-Instance count : 2
-Monitoring : true
