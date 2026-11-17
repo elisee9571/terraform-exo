@@ -1,2 +1,7 @@
-.terraform/
-terraform.state*
+environments/dev/.terraform
+environments/prod/.terraform
+environments/staging/.terraform
+
+environments/dev/terraform.tfstate*
+environments/prod/terraform.tfstate*
+environments/staging/terraform.tfstate*
